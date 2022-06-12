@@ -1,0 +1,78 @@
+body {
+  background-color: #16e099;
+}
+
+.field {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: 1280px;
+  height: 720px;
+  background-color: #19ffab;
+}
+
+.range1,
+.range2,
+.range3,
+.range4,
+.range5 {
+  position: absolute;
+  width: 150px;
+  height: 100%;
+  background-color: #73ffcc;
+}
+
+.range2 {
+  left: 300px;
+}
+
+.range3 {
+  right: 565px;
+}
+
+.range4 {
+  right: 300px;
+}
+
+.range5 {
+  right: 0px;
+}
+
+.marking1 {
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: auto;
+  height: 100%;
+  width: 20px;
+  background-color: #d6fff0;
+}
+
+.circle1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+  background-color: #d6fff0;
+  border-radius: 50%;
+}
+
+.circle2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  height: 260px;
+  width: 260px;
+  background-color: #19ffab;
+  border-radius: 50%;
+}
