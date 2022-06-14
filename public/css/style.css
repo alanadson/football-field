@@ -1,5 +1,5 @@
 body {
-  background-color: #16e099;
+  background-color: #02a53c;
 }
 
 .field {
@@ -11,7 +11,7 @@ body {
   margin: auto;
   width: 1280px;
   height: 720px;
-  background-color: #19ffab;
+  background-color: #02a53c;
 }
 
 .range1,
@@ -22,7 +22,7 @@ body {
   position: absolute;
   width: 150px;
   height: 100%;
-  background-color: #73ffcc;
+  background-color: #00923f;
 }
 
 .range2 {
@@ -60,7 +60,7 @@ body {
   margin: auto;
   height: 300px;
   width: 300px;
-  background-color: #d6fff0;
+  background-color: #ffffff;
   border-radius: 50%;
 }
 
@@ -73,9 +73,18 @@ body {
   margin: auto;
   height: 260px;
   width: 260px;
-  background-color: #19ffab;
+  background-color: #00923f;
   border-radius: 50%;
 }
+
+/* .right-circle-fill {
+  background-color: black;
+  position: absolute;
+  right: 0;
+  margin: auto;
+  height: 20%;
+  width: 20%;
+} */
 
 .left-rectangle1 {
   position: absolute;
@@ -85,7 +94,7 @@ body {
   margin: auto;
   height: 300px;
   width: 200px;
-  background-color: #d6fff0;
+  background-color: #ffffff;
 }
 
 .left-rectangle2 {
@@ -96,7 +105,16 @@ body {
   margin: auto;
   height: 260px;
   width: 180px;
-  background-color: #19ffab;
+  background-color: #00923f;
+}
+
+.left-fill {
+  position: absolute;
+  right: 0;
+  margin: auto;
+  height: 16.2rem;
+  width: 1.9rem;
+  background-color: #02a53c;
 }
 
 .right-rectangle1 {
@@ -107,7 +125,7 @@ body {
   margin: auto;
   height: 300px;
   width: 200px;
-  background-color: #d6fff0;
+  background-color: #ffffff;
 }
 
 .right-rectangle2 {
@@ -118,7 +136,16 @@ body {
   margin: auto;
   height: 260px;
   width: 180px;
-  background-color: #19ffab;
+  background-color: #00923f;
+}
+
+.right-fill {
+  position: absolute;
+  left: 0;
+  margin: auto;
+  height: 16.2rem;
+  width: 1.9rem;
+  background-color: #02a53c;
 }
 
 .ball {
@@ -130,7 +157,7 @@ body {
   margin: auto;
   height: 30px;
   width: 30px;
-  background-color: white;
+  background-color: #ffffff;
   border-radius: 50%;
 }
 
@@ -142,7 +169,7 @@ body {
   margin: auto;
   height: 150px;
   width: 20px;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 .player2 {
@@ -153,5 +180,5 @@ body {
   margin: auto;
   height: 150px;
   width: 20px;
-  background-color: white;
+  background-color: #ffffff;
 }
