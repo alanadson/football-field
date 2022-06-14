@@ -76,3 +76,82 @@ body {
   background-color: #19ffab;
   border-radius: 50%;
 }
+
+.left-rectangle1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  height: 300px;
+  width: 200px;
+  background-color: #d6fff0;
+}
+
+.left-rectangle2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  height: 260px;
+  width: 180px;
+  background-color: #19ffab;
+}
+
+.right-rectangle1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  height: 300px;
+  width: 200px;
+  background-color: #d6fff0;
+}
+
+.right-rectangle2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  height: 260px;
+  width: 180px;
+  background-color: #19ffab;
+}
+
+.ball {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  height: 30px;
+  width: 30px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.player1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 30px;
+  margin: auto;
+  height: 150px;
+  width: 20px;
+  background-color: white;
+}
+
+.player2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 30px;
+  margin: auto;
+  height: 150px;
+  width: 20px;
+  background-color: white;
+}
